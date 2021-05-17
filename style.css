@@ -1,0 +1,35 @@
+.dogBone {
+    width: 100px;
+    height: 100px;
+}
+.dirt {
+    background-color: saddlebrown;
+}
+
+
+body{
+    background-color: darkseagreen;
+}
+div {
+    text-align: center;
+    background-color: aquamarine;
+
+}
+p {
+    text-align: center;
+}
+span {
+    text-align: center;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: darkgreen;
+    border: 1px white solid;
+}
+#progressBar{
+    height: 20px;
+    width: 0%;
+    color: greenyellow;
+    background-color: crimson;
+    padding-left: 50px;
+}
